@@ -1,0 +1,8 @@
+{
+  "name": "Budget Tracker Online or Offline",
+  "short_name": "Budget-Tracker",
+  "start_url": "/",
+  "background_color": "#808080",
+  "theme_color": "#808080",
+  "display": "standalone"
+}
